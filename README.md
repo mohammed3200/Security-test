@@ -68,7 +68,7 @@ A comprehensive, concurrent SQL injection vulnerability scanner written in Go. T
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sqli-tester.git
+git clone https://github.com/mohammed3200/sqli-tester.git
 cd sqli-tester
 
 # Build the binary
